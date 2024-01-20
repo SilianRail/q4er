@@ -1,2 +1,2 @@
 This is a second conflict file!
-conflict2
+message2

@@ -1,2 +1,3 @@
 This is the third conflict file!
 conflict3
+message3
