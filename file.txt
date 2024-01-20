@@ -1,3 +1,0 @@
-This is a random file
-These are some addition changes made in the feature branch!
-These changes are being made in the another_branch
